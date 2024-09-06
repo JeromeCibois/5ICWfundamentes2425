@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EersteProgramma", "EersteProgramma\EersteProgramma.csproj", "{C0B21DBC-820A-4EC3-96A8-0C705D5C88CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hoofdstuk 2", "hoofdstuk 2", "{F925EE0D-7466-45E8-9C91-A7D0FD758E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0B21DBC-820A-4EC3-96A8-0C705D5C88CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B21DBC-820A-4EC3-96A8-0C705D5C88CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B21DBC-820A-4EC3-96A8-0C705D5C88CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B21DBC-820A-4EC3-96A8-0C705D5C88CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98557EB-2339-470E-A8D9-18CB9515194F}
+	EndGlobalSection
+EndGlobal
